@@ -14,3 +14,6 @@ DeepStream based pipeline to blur faces for privacy compliances.
 docker compose -f docker-compose.yml up --build
 ```
 
+## Demo
+
+![Demo Screenshot](demo.png)
