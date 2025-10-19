@@ -20,6 +20,6 @@ docker compose -f docker-compose.yml up --build
 
 ## Reference Repositories
 
-https://github.com/marcoslucianops/DeepStream-Yolo-Face.git
+https://github.com/marcoslucianops/DeepStream-Yolo-Face
 
 https://github.com/derronqi/yolov8-face
